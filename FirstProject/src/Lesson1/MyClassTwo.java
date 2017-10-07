@@ -12,6 +12,5 @@ class MyClassTwo
     getAverage()                   
     {
 	return (sumOfNum/counter);         
-
     }
 }
